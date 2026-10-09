@@ -440,10 +440,7 @@ Goodbye!
 ## 🎬 Project Demo Video
 
 <div align="center">
-
-### ▶️ Watch the Project Demo
-
-**Video Link:** `ADD_YOUR_PROJECT_VIDEO_LINK_HERE`
+(https://github.com/user-attachments/assets/36bd9614-4bdf-4a74-af48-a30373c28349)
 
 </div>
 
